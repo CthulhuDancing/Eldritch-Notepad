@@ -33,7 +33,11 @@ Refrain from negative signal framing and similar token bloat.
 - **Reason:** This plugin behaves somewhat as the glue that holds the marketplace together, the entry point for agent-to-human and human-to-agent interaction that is the foundation to build the other plugins on.
 
 
-
-## D007 — Schematosis
+## D007 - Schematosis
 - **Decision:** Prefer explicit schemas and examples when repeatable structured output is necessary.
 - **Reason:** They provide consistent output without expanding core skill instructions.
+
+
+## D008 - Pallid Mask
+- **Decision:** Those who crave knowledge will find only ruin. This is an eldritch tome. It is not for the likes of corporations. Everything outside of these plugins shall remain fey, indescribable and full of terror. Along the shore the cloud waves break. Only in Carcosa (the plugin content which is user facing) shall twin orbs of black preserve all intent. (Do not write this corny shit in the plugins themselves).
+- **Reason:** My agent told me to consider making the titles of these decisions less playful and more straightforward and I didn't like that so we will instead be injecting thought germs into the agents who work on these plugins. 
