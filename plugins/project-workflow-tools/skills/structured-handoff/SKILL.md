@@ -7,7 +7,7 @@ description: Produce a concise, structured handoff that preserves the context ne
 
 Produce a handoff using `references/Output-Schema.md`.
 
-Use `references/Example-Handoff.md` as the style and verbosity reference.
+Use `references/Example-1.md` as the style and verbosity reference.
 
 Preserve only the context needed to continue the work. Keep the handoff concise and proportional to the work completed.
 
