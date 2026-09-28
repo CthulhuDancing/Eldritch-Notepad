@@ -1,58 +1,57 @@
 # Startup Discovery - Customer Follow-up on Missed Calls
 
 ## Objective
-Define the initial scope for a startup that helps small businesses automatically follow up with customers after missed calls.
+Define the initial scope for a startup that helps small businesses follow up automatically after missed calls.
 
 ## Status & Progress
-### Current Status
-The concept is in early discovery. The leading idea is to detect missed calls and send an automated SMS response.
+### Status
+The concept is in early discovery. The leading approach is to detect missed calls and send an automated SMS response.
 
-### Completed Work
-- Identified small service businesses as the likely target.
-- Drafted a basic missed-call-to-text workflow.
+### Progress
+- Identified small service businesses as the initial target.
+- Drafted a missed-call-to-text workflow.
 - Identified telephony and SMS as the main technical dependencies.
 
 ## Key Findings
-- Missed calls may represent high-intent leads.
-- Small businesses may not have staff available to answer every call.
-- Immediate SMS follow-up could help recover lost opportunities.
-- The first version should stay narrow rather than becoming a full CRM.
+- Missed calls are most costly when callers are high-intent and unlikely to try again.
+- Small service businesses often miss calls because staff are performing the work rather than answering phones.
+- SMS is a better immediate recovery channel than voicemail because it can continue asynchronously.
+- The value of the product depends less on call volume than on the value of each recovered lead.
 
 ### Summary of Findings
-The strongest initial concept is a focused missed-call recovery service. The next step is to validate whether the problem is frequent and valuable enough for businesses to pay for.
+The strongest opportunity is not businesses with the most missed calls, but businesses where a missed call can mean losing a valuable customer. That shifts discovery toward high-value service businesses and makes lead recovery, rather than general phone automation, the core product hypothesis.
 
 ## Decisions & Constraints
 ### Decisions
 - Focus on small service businesses.
 - Use SMS as the first follow-up channel.
-- Keep the first product simple.
+- Keep the initial product simple.
 
 ### Constraints
 - The product depends on reliable missed-call events.
 - SMS delivery must meet messaging requirements.
-- Phone-provider integration may vary significantly.
+- Phone-provider integrations may differ significantly.
 
 ## Open Questions
 - Which customer segments lose the most value from missed calls?
-- How often are calls missed today?
-- What do businesses currently do after a missed call?
+- How often are calls missed?
+- What happens after a missed call today?
 - Which phone systems should be supported first?
 - What pricing model would customers prefer?
 
 ## Risks & Blockers
 ### Blockers
-- No validated willingness to pay yet.
-- No telephony provider has been selected.
-- SMS compliance requirements still need review.
+- No telephony integration path has been selected.
 
 ### Risks
 - Existing phone systems may already offer similar functionality.
 - Integration complexity could increase quickly.
-- The product may be too narrow for some customers.
+- Customers may not value the product enough to pay for it.
+- SMS compliance requirements may add implementation overhead.
 
 ## Next Actions
 Interview potential customers to validate the problem, then evaluate a small set of telephony providers for missed-call event support and SMS integration.
 
 ## References & Sources
-- **Sources:** Customer interviews, telephony provider docs, sms provider docs, competitors.
-- **References:** chat history, company customer mcp, voip provider connector
+- **Sources:** Telephony provider documentation, SMS provider documentation, competitor research.
+- **References:** Chat history, company customer data, VoIP provider connector.
