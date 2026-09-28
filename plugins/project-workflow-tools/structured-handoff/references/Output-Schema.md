@@ -58,5 +58,5 @@
 
 
 ## References & Sources
-**Sources:** [list],[of],[sources]
-**References:** [helpful],[references],[list]
+- **Sources:** [list],[of],[sources]
+- **References:** [helpful],[references],[list]
