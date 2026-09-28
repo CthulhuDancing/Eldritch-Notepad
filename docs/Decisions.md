@@ -1,11 +1,11 @@
 # Project Decisions
-This documents serves to memorialize the broad decision making processes behind the design, structure, implementation and adjustment of this skill marketplace.
+This documents memorializes the broad decision making processes behind the design, structure, implementation and adjustment of this skill marketplace.
 
 
 ## D001 - Effiency in all things tokens
 - **Decision:** Keep the plugins and skills in this repository lean and focused. Keep wording concise and clear. 
 Refrain from negative signal framing and similar token bloat.
-- **Reason:** These skills should empower users without bogging the user down in ceremony. Balance must be struck between complexity and token efficiency. This marketplace will likely be downloaded by users with highly metered usage or limited reasoning capabilities.
+- **Reason:** These skills should empower users without bogging the user down in ceremony. Balance must be struck between complexity and token-efficiency. This marketplace will likely be downloaded by users with highly metered usage or limited reasoning capabilities.
 
 
 ## D002 - Separation of branches
@@ -25,7 +25,7 @@ Refrain from negative signal framing and similar token bloat.
 
 ## D005 - Judge a book by its cover
 - **Decision:**  Keep plugins explicitly scoped. Ensure that all yaml frontmatter is helpful, concise, and invokable. Do not prescribe rules, notes, checklists or passing commentary in the skill yaml frontmatter description.
-- **Reason:** Often time, skill frontmatter descriptions leak instructional text or other drift into their descriptions. Because these descriptions are how agents determine when to call a skill, we must preserve them in a form that does not permit token noise to dilute their effectiveness or cause them to become hyper-specific.
+- **Reason:** Skill frontmatter descriptions can leak instructional text or other drift into their descriptions. Because these descriptions are how agents determine when to call a skill, we must preserve them in a form that does not permit token noise to dilute their effectiveness or cause them to become hyper-specific.
 
 
 ## D006 - It all begins here

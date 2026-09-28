@@ -9,7 +9,7 @@ Use this document to make sense of the docs/ directory.
 ### Files
 - `Decisions.md` is the durable source of truth for decision making logic and past reasoning.
 - `README.md` is this directory's authoritative index guide and explanation of contents.
-- `Roadmap.md` is the project radmap and outstanding issues tracker.
+- `Roadmap.md` is the project roadmap and outstanding issues tracker.
 - `VersionHistory.md` is the record source for historical versions and changes.
 
 

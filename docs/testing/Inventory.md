@@ -3,6 +3,8 @@
 # Prompt Tests
 
 ### Plugin Health Report
+**ID:** plugin-health-report
+
 `prompts/plugin-health-report.prompt.md` Tests basic reachability of plugins and skills. Add each new plugin directly to the prompt file as they are built.
 
 **Current plugins**

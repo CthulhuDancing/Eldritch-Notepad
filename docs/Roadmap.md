@@ -1,22 +1,32 @@
 # Project Roadmap
 Use this document to track roadmap goals which can be worked on modularly without needing to force every release into a linear versioned workflow. Add new roadmap items as their own headered section so that roadmap work can choose from buckets instead of being forced into a linear update flow.
 
-## Current Outstanding Items
-- Build Prompt tests
-- Build proper Roadmap
-- Fix README.md files and AGENTS.md files
-- Link `structured-handoff` skill to `adapative-workflows`
-- Create `co-development-tools` plugin
+## Hotlist
+This list stores items that come up during work, to be serialized into their proper bucket / section later.
+
+- improve roadmap structure
+- add AGENTS.md
 
 
 ## Testing Suite
 need to get baseline tests for deterministic, marketplace, and prompting filled out for existing structure.
 
+- prompt tests
+- deterministic tests
+- marketplace tests
+
 ## Repo Automation
 automate repo actions like bumping versions, running tests, etc, verifying build, etc.
 
+- version bumping
+- automatic testing
+- manifest & metadata update
+
 ## Workflow Skills
-expand and improve the `project-workflows-tools` plugin.
+expand and improve the `project-workflow-tools` plugin.
+
+- Link `structured-handoff` skill to `adapative-workflow` so that workflow can produce structured handoffs.
+- add plugin assets for image, etc.
 
 ## Assets, Helpers, & Marketplace Metadata
 plugin profile images, general assets & cross-plugin helpers.

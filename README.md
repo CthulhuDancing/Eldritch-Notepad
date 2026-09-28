@@ -9,7 +9,7 @@ prior history can be found [here](docs/VersionHistory.md)
 # Plugin Directory
 
 ## Project Workflow Tools
-The purpose of this plugin is to refocus agent chats to use a more non-linear graphing workflow for complex tasks. It helps agents better understand things like implicit intent, long horizon tasks, and navigating complex objectives.
+The purpose of this plugin is to help agents adapt plans as new information changes the problem. It helps agents better understand things like implicit intent, long horizon tasks, and navigating complex objectives. It also instructs them to produce a more consistent output.
 
 **Skills:** 
 - `adaptive-workflow` - Structure complex, uncertain, or multi-step work as an adaptive workflow.

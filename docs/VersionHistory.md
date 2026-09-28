@@ -9,3 +9,9 @@ Initialize Repo for generic Agentic Marketplace. Initialize with only one plugin
 - Expand Testing Documentation with `testing/Inventory.md` to document test purpose + pass /fail conditions.
 
 Also included placeholder readme documents & necessary marketplace & plugin Manifests
+
+## 0.2.0
+Sanitization pass on verbiage, directory structure & typos.
+- moved plugin skills down to <plugin>/skills/<skill> as intended for plugins.
+- expanded Decisions and Roadmap to be more structured
+- Typos, tone adjustment and proofreading
