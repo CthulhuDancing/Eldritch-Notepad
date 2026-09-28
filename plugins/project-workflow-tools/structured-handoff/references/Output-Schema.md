@@ -1,56 +1,51 @@
-# Startup Discovery - Customer Follow-up on missed calls
+# [Handoff Title]
 
 ## Objective
 [prose]
 
 
 ## Status & Progress
-### Current Status
+### Status
 [prose]
 
-### Completed Work
-- [list]
-- [completed]
-- [items]
+### Progress
+- [item]
+- [item]
+- [item]
 
 
 ## Key Findings
-- [list]
-- [key]
-- [findings]
+- [finding]
+- [finding]
+- [finding]
 
 ### Summary of Findings
-[prose]
+[optional synthesis]
 
 
 ## Decisions & Constraints
 ### Decisions
-- [list]
-- [decisions]
-- [decisions]
+- [decision]
+- [decision]
 
 ### Constraints
-- [list]
-- [constraints]
-- [constraints]
+- [constraint]
+- [constraint]
 
 
 ## Open Questions
-- [question]
 - [question]
 - [question]
 
 
 ## Risks & Blockers
 ### Blockers
-- [list]
-- [hard]
-- [blockers]
+- [blocker]
+- [blocker]
 
 ### Risks
-- [list]
-- [risky]
-- [stuff]
+- [risk]
+- [risk]
 
 
 ## Next Actions
@@ -58,5 +53,5 @@
 
 
 ## References & Sources
-- **Sources:** [list],[of],[sources]
-- **References:** [helpful],[references],[list]
+- **Sources:** [source], [source]
+- **References:** [reference], [reference]
