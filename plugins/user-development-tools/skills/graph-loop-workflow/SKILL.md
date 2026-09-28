@@ -1,6 +1,6 @@
 ---
 name: graph-loop-workflow
-description: Use or emulate a graph-and-loop workflow for complex planning, investigation, analysis, development, research, or troubleshooting. Apply when a task contains multiple dependencies, competing paths, unresolved questions, or findings that should affect what is examined next.
+description: Use a graph-and-loop workflow for complex planning, investigation, analysis, development, research, or troubleshooting. Apply when a task contains multiple dependencies, competing paths, unresolved questions, or findings that should affect what is examined next.
 ---
 
 # Graph and Loop Workflow
