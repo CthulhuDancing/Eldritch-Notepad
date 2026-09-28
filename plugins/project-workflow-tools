@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "user-development-tools",
+  "name": "project-workflow-tools",
   "version": "0.1.0",
   "description": "General-purpose workflow and handoff skills for planning, analysis, development, and knowledge work.",
   "author": {
@@ -10,7 +10,7 @@
   "extensions": {
     "com.openai": {
       "interface": {
-        "displayName": "User Development Tools",
+        "displayName": "Project Workflow Tools",
         "shortDescription": "General workflow and handoff tools",
         "longDescription": "Lightweight reusable skills for organizing complex work and producing consistent handoffs.",
         "developerName": "CthulhuDancing",
