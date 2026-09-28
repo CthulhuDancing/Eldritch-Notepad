@@ -1,7 +1,7 @@
 # Eldritch-Notepad
-a collection of plugins for non-technical agentic workflows.
+a collection of plugins for non-technical users engaging in agentic workflows.
 
-# Current Version - 0.1.0
+### Current Version - 0.1.0
 This version initiates the Baseline starter plugin for environment / runtime agnostic workflow and handoff guidance & Documentation Framework.
 prior history can be found [here](docs/VersionHistory.md)
 
