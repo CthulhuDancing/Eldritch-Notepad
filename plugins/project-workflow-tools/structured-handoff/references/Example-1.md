@@ -54,5 +54,5 @@ The strongest initial concept is a focused missed-call recovery service. The nex
 Interview potential customers to validate the problem, then evaluate a small set of telephony providers for missed-call event support and SMS integration.
 
 ## References & Sources
-**Sources:** Customer interviews, telephony provider docs, sms provider docs, competitors.
-**References:** chat history, company customer mcp, voip provider connector
+- **Sources:** Customer interviews, telephony provider docs, sms provider docs, competitors.
+- **References:** chat history, company customer mcp, voip provider connector
