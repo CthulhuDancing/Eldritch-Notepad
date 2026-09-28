@@ -24,7 +24,7 @@ Keep plugins explicitly scoped. Ensure that all yaml frontmatter is helpful, con
 Justify every word.
 
 ## D006
-Treat the plugin `adaptive-workflow` as the core plugin for this marketplace, containing the most generic and topic-agnostic skills that will simply help any chat orient itself towards the user's true intent regardless of the objective, project, or topic.
+Treat the plugin `project-workflow-tools` as the core plugin for this marketplace, containing the most generic and topic-agnostic skills that will simply help any chat orient itself towards the user's true intent regardless of the objective, project, or topic.
 
 ## D007
 Prefer explicit schema and examples when repeatable structured output is necessary.
