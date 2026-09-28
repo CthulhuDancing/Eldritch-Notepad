@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "project-workflow-tools",
+  "version": "0.1.0",
+  "description": "General-purpose workflow and handoff skills for planning, analysis, development, and knowledge work.",
+  "author": {
+    "name": "CthulhuDancing"
+  },
+  "repository": "https://github.com/CthulhuDancing/Eldritch-Notepad",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Project Workflow Tools",
+        "shortDescription": "General workflow and handoff tools",
+        "longDescription": "Lightweight reusable skills for organizing complex work and producing consistent handoffs.",
+        "developerName": "CthulhuDancing",
+        "category": "Productivity",
+        "defaultPrompt": [
+          "Help me work through this problem using the available workflow skills.",
+          "Prepare a structured handoff for the work completed so far."
+        ]
+      }
+    }
+  }
+}
