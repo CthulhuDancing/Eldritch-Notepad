@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "user-development-tools",
+      "name": "project-workflow-tools",
       "source": {
         "source": "local",
-        "path": "./plugins/user-development-tools"
+        "path": "./plugins/project-workflow-tools"
       },
       "policy": {
         "installation": "AVAILABLE",
