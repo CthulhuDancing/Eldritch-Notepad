@@ -1,1 +1,20 @@
-
+{
+  "name": "eldritch-notepad",
+  "interface": {
+    "displayName": "Eldritch Notepad"
+  },
+  "plugins": [
+    {
+      "name": "user-development-tools",
+      "source": {
+        "source": "local",
+        "path": "./plugins/user-development-tools"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
