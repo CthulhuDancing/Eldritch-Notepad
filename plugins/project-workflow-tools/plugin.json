@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "project-workflow-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "General-purpose workflow and handoff skills for planning, analysis, development, and knowledge work.",
   "author": {
     "name": "CthulhuDancing"
