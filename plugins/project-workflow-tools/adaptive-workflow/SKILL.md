@@ -25,7 +25,7 @@ Represent the work conceptually as nodes such as:
 - review;
 - implementation;
 - validation;
-- handoff;
+- handoff.
 
 Create branches only when different questions or approaches can meaningfully proceed independently, or when an approach requires probing various angles. Do not turn straightforward work into a graph unnecessarily.
 
