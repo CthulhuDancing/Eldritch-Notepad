@@ -53,14 +53,14 @@ The strongest initial concept is a focused missed-call recovery service. The nex
 ## Next Actions
 Interview potential customers to validate the problem, then evaluate a small set of telephony providers for missed-call event support and SMS integration.
 
-## References & Sources
-### Sources
+#### References & Sources
+##### Sources
 - Customer interviews.
 - Telephony provider documentation.
 - SMS provider documentation.
 - Competitive research.
 
-### References
+##### References
 - Initial problem statement.
 - Draft workflow.
 - Technical integration notes.
