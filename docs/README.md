@@ -1,5 +1,5 @@
 # Documentation README
-Use this document to make sense of the /docs/ directory.
+Use this document to make sense of the docs/ directory.
 
 ## Inventory of root docs
 
@@ -16,10 +16,10 @@ Use this document to make sense of the /docs/ directory.
 ## Inventory of Testing Directory
 
 ### Directories
-`Prompt Tests` -> /testing/prompts
+- `Prompt Tests` -> docs/testing/prompts
 
 ### Files
-
+- `Inventory.md`
 
 ### Prompt Tests
 - `plugin-health-report.prompt.md` is the default testing prompt to query plugin & skill availability.
