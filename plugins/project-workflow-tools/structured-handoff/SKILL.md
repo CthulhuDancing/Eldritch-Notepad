@@ -25,7 +25,7 @@ Include, where relevant:
 - references and sources.
 
 Do not invent missing context. Omit empty or irrelevant sections.
-Prefer concrete facts, decisions, and next actions over narrative history. Classify information by its actual role in the work.
+Prefer concrete facts, decisions, and next actions over narrative history.
 Use summaries only when they add synthesis beyond the surrounding bullets. Make next actions specific enough to continue without reconstructing prior intent.
 
 
