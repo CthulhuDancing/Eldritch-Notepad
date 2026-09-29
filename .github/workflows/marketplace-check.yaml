@@ -21,4 +21,4 @@ jobs:
           python-version: "3.12"
 
       - name: Validate marketplace
-        run: tests/test-marketplace.py
+        run: python tests/test-marketplace.py
