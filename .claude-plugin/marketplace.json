@@ -1,19 +1,14 @@
 {
   "name": "eldritch-notepad",
-  "interface": {
-    "displayName": "Eldritch Notepad"
+  "owner": {
+    "name": "CthulhuDancing"
   },
+  "description": "Eldritch Notepad plugin marketplace",
   "plugins": [
     {
       "name": "project-workflow-tools",
-      "source": {
-        "source": "local",
-        "path": "./plugins/project-workflow-tools"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
+      "displayName": "Project Workflow Tools",
+      "source": "./plugins/project-workflow-tools",
       "category": "Productivity"
     }
   ]
