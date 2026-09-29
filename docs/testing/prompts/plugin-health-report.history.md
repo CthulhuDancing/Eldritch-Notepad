@@ -31,3 +31,14 @@ Codex can see the skills and its in a format that is expected. Perhaps the probl
 | Plugin Name | Plugin Discoverable | Available Skills | Available Tools | Available Connections |
 |---|---|---|---|---|
 | project-workflow-tools | Yes | `adaptive-workflow`, `structured-handoff` | None | Not discoverable |
+
+### ChatGPT
+
+#### Dev Notes
+I'm gonna blow a gasket. This has been plaguing me and I think it's an openai problem at this point so we will see if it improves later. For now, I will install the skills directly to test them in ChatGPT
+
+#### Raw Response
+
+| Plugin Name | Plugin Discoverable | Available Skills | Available Tools | Available Connections |
+|---|---|---|---|---|
+| `project-workflow-tools` | Yes | None | None | Not discoverable |
