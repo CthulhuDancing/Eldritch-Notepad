@@ -1,0 +1,9 @@
+{
+  "name": "project-workflow-tools",
+  "version": "0.2.0",
+  "description": "Helps agents adapt plans as new information changes the problem, with adaptive workflows and structured handoffs.",
+  "author": {
+    "name": "CthulhuDancing",
+    "url": "https://github.com/CthulhuDancing"
+  }
+}
