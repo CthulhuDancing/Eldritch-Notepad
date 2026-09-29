@@ -1,6 +1,12 @@
 # Project Roadmap
 Use this document to track roadmap goals which can be worked on modularly without needing to force every release into a linear versioned workflow. Add new roadmap items as their own headered section so that roadmap work can choose from buckets instead of being forced into a linear update flow.
 
+## Working Version
+0.3.0 - Marketplace Test Initialization
+
+**Touched Buckets:** Testing Suite
+**Desired Outcome:** a simple test that validates marketplace, manifest, & repo configurations
+
 ## Hotlist
 This list stores items that come up during work, to be serialized into their proper bucket / section later.
 
