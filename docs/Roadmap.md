@@ -11,7 +11,6 @@ Use this document to track roadmap goals which can be worked on modularly withou
 This list stores items that come up during work, to be serialized into their proper bucket / section later.
 
 - improve roadmap structure
-- add AGENTS.md
 
 
 ## Testing Suite
