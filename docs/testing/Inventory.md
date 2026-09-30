@@ -20,3 +20,16 @@
 
 
 ## Marketplace Tests
+
+### Marketplace Integrity
+**ID:** marketplace-integrity
+
+`tests/test-marketplace.py` validates both marketplace formats, their local
+plugin sources, portable and Claude plugin manifests, semantic versions, and
+skill entry points. It also checks that corresponding plugin names, source
+directories, and versions remain synchronized.
+
+**Outcomes**
+- **Pass:** both marketplace formats describe the same valid local plugins.
+- **Fail:** a marketplace, manifest, source directory, version, or skill entry
+  point is missing, invalid, unsafe, or inconsistent.

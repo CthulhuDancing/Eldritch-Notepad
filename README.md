@@ -6,6 +6,17 @@ This version initializes a simple test for marketplace plugin validation.
 
 version history is [here](docs/VersionHistory.md)
 
+## Development environment
+
+Development and CI use Python 3.12. The repository currently has no
+third-party dependencies, required environment variables, or secrets.
+
+Run the complete local validation suite with:
+
+```sh
+make check
+```
+
 
 # Plugin Directory
 
